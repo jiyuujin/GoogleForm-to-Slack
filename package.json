@@ -1,0 +1,12 @@
+{
+  "name": "googleform-to-slack",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,json,ts,tsx,md,mdx,css,html,yml,yaml,scss,sass}\" --ignore-path .gitignore"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
